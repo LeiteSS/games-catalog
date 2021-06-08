@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>games.api</name>
+    </assembly>
+    <members>
+        <member name="T:games.api.Models.Game.GameViewModelInput">
+            <summary>
+            ViewModel to input game in the system
+            </summary>
+        </member>
+        <member name="T:games.api.Models.Game.GameViewModelOutput">
+            <summary>
+            ViewModel to output games in the system
+            </summary>
+        </member>
+        <member name="T:games.api.Models.GenericErrorViewModel">
+            <summary>
+            ViewModel to show a server error message
+            </summary>
+        </member>
+        <member name="T:games.api.Models.ValidateFieldViewModelOutput">
+            <summary>
+            Validate if the fields are filled
+            </summary>
+        </member>
+    </members>
+</doc>
